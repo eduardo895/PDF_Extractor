@@ -584,7 +584,7 @@ FIELD_ALIASES = {
     "customer_nif": ["v. contribuinte", "cliente", "customer vat", "customer vat number", "nif cliente"],
     "supplier_nif": ["contrib nº", "contribuinte", "vat", "nif", "tax id", "vat number", "vat no", "nipc"],
     "subtotal": ["valor liquido", "subtotal", "sub total", "valor sem iva", "ilíquido", "base"],
-    "vat_amount": ["i.v.a.", "iva", "vat amount", "tax", "imposto", "montante taxa"],
+    "iva_amount": ["i.v.a.", "iva", "vat amount", "tax", "imposto", "montante taxa"],
     "total": ["total documento", "liquido", "líquido", "total", "total amount", "amount due", "valor total", "total a pagar", "montante total"],
 }
 
